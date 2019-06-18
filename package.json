@@ -6,5 +6,9 @@
   "scripts": {
     "build": "sh ./util.sh build",
     "start": "sh ./util.sh start"
-  }
+  },
+  "engines": {
+    "node": "6.11.1",
+    "npm": "5.5.1"
+  },
 }
