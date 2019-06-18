@@ -4,8 +4,8 @@
   "description": "",
   "author": "Andrew Lloyd <andrew85.lloyd@gmail.com>",
   "scripts": {
-    "build": "./util.sh build",
-    "start": "./util.sh start"
+    "build": "./util.sh",
+    "start": "cd software-engineering-daily-api && node dist/index.js"
   },
   "engines": {
     "node": "6.11.1",
