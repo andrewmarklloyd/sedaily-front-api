@@ -2,7 +2,7 @@
 
 # requires env vars at build time?
 
-function build() {
+function build {
   cd sedaily-front-end/
   # git pull origin
   npm run build:dev
@@ -14,7 +14,7 @@ function build() {
   mv ../sedaily-front-end/dist/* dist/config/front-dist
 }
 
-function start() {
+function start {
   cd software-engineering-daily-api && node dist/index.js
 }
 
