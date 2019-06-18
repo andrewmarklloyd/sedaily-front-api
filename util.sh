@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # requires env vars at build time?
 
