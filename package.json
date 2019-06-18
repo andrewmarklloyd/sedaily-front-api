@@ -6,15 +6,5 @@
   "scripts": {
     "build": "sh ./util.sh build",
     "start": "sh ./util.sh start"
-  },
-  "dependencies": {
-
-  },
-  "devDependencies": {
-
-  },
-  "engines": {
-    "node": ">= 4.0.0",
-    "npm": ">= 3.0.0"
   }
 }
