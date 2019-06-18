@@ -4,8 +4,8 @@
   "description": "",
   "author": "Andrew Lloyd <andrew85.lloyd@gmail.com>",
   "scripts": {
-    "build": "sh ./util.sh build",
-    "start": "sh ./util.sh start"
+    "build": "./util.sh build",
+    "start": "./util.sh start"
   },
   "engines": {
     "node": "6.11.1",
