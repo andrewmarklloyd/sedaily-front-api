@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Andrew Lloyd <andrew85.lloyd@gmail.com>",
+  "scripts": {
+    "build": "sh ./util.sh build",
+    "start": "sh ./util.sh start"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
