@@ -4,7 +4,7 @@
 
 cd sedaily-front-end/
 npm install
-npm run build:dev
+npm run build
 cd ../
 cd software-engineering-daily-api
 npm install
