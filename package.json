@@ -5,7 +5,8 @@
   "author": "Andrew Lloyd <andrew85.lloyd@gmail.com>",
   "scripts": {
     "build": "./util.sh",
-    "start": "cd software-engineering-daily-api && node dist/index.js"
+    "start": "cd software-engineering-daily-api && node dist/index.js",
+    "postinstall": "npm install --prefix sedaily-front-end && npm install --prefix software-engineering-daily-api"
   },
   "engines": {
     "node": "6.11.1",
