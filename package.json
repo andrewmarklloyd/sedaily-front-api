@@ -4,7 +4,7 @@
   "description": "",
   "author": "Andrew Lloyd <andrew85.lloyd@gmail.com>",
   "scripts": {
-    "build": "./util.sh",
+    "build": "./build.sh",
     "start": "cd software-engineering-daily-api && node dist/index.js",
     "postinstall": "npm install --prefix sedaily-front-end && npm install --prefix software-engineering-daily-api"
   },
