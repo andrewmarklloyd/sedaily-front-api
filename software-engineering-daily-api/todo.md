@@ -1,4 +1,0 @@
-- export api on Controllers
-- Create a generator
-- Add swagger
-- Added authentication with bycrypt
