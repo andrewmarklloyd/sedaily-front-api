@@ -1,8 +1,0 @@
-[submodule "sedaily-front-end"]
-	path = sedaily-front-end
-	url = git@github.com:SoftwareEngineeringDaily/sedaily-front-end.git
-	branch = master
-[submodule "software-engineering-daily-api"]
-	path = software-engineering-daily-api
-	url = git@github.com:SoftwareEngineeringDaily/software-engineering-daily-api.git
-	branch = master
