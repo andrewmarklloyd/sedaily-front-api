@@ -1,0 +1,23 @@
+{
+  "name": "sedaily-front-end",
+  "scripts": {
+  },
+  "env": {
+    "API_ENV": {
+      "required": true
+    },
+    "DEPLOY": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
