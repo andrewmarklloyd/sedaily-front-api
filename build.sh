@@ -2,9 +2,9 @@
 
 # requires env vars at build time?
 
-cd sedaily-front-end/
-npm run build
+# cd sedaily-front-end/
+# npm run build
 cd ../software-engineering-daily-api
 npm run build
-mkdir -p dist/config/front-dist
-mv ../sedaily-front-end/dist/* dist/config/front-dist
+# mkdir -p dist/config/front-dist
+# mv ../sedaily-front-end/dist/* dist/config/front-dist
