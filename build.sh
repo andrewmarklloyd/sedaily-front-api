@@ -7,7 +7,6 @@
 # cd ../
 cd sedaily-front-end/
 npm install
-ls -l node_modules
-# npm run build
+npm run build
 # mkdir -p dist/config/front-dist
 # mv ../sedaily-front-end/dist/* dist/config/front-dist
