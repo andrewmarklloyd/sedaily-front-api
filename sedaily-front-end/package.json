@@ -112,7 +112,6 @@
     "prerender-node": "^3.1.1",
     "rimraf": "^2.6.2",
     "sass-loader": "^6.0.7",
-    "semver": "^6.1.1",
     "start-server-and-test": "^1.4.1",
     "style-loader": "^0.20.3",
     "stylus": "^0.54.5",
