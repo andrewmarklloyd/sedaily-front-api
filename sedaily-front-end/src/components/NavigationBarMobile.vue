@@ -6,7 +6,7 @@
     </div>
     <span class="pull-right">
       <span v-on:click="onSearchActive">
-        <img class="search-img" src="../assets/icons/search.svg">
+        <img class="search-img" src="~@/assets/icons/search.svg">
       </span>
       <router-link v-if="alreadySubscribed" to="/subscribe" class="subscribed">Subscribed</router-link>
       <router-link v-else to="/premium" class="call-to-action-secondary">Subscribe</router-link>
