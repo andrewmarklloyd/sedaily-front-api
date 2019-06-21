@@ -6,7 +6,7 @@
   "scripts": {
     "build": "./build.sh",
     "start": "cd software-engineering-daily-api && node dist/index.js",
-    "postinstall": "npm install --prefix sedaily-front-end && npm install --prefix software-engineering-daily-api"
+    "postinstall": "npm install --prefix sedaily-front-end"
   },
   "engines": {
     "node": "6.11.1",
