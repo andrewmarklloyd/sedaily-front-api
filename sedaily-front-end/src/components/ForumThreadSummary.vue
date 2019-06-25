@@ -4,7 +4,7 @@
       <div v-if="podcastEpisode">
         <img
         class='podcast-icon'
-        src="~@/assets/icons/podcast.png"
+        src="@/assets/icons/podcast.png"
         />
       </div>
       <profile-label v-else

@@ -8,6 +8,8 @@ function updateApp() {
   diff=$(git diff ${app})
   if [[ -z ${diff} ]]; then
     echo "no diff found for ${app}"
+  else
+    echo "diff found"
   fi
 }
 

@@ -78,7 +78,7 @@
         <img
           class='markdown-icon'
           v-if="!shouldShowMarkDownHelp"
-          src="~@/assets/icons/Aa.png"
+          src="@/assets/icons/Aa.png"
           @click='toggleMarkdownHelp'
           alt='Markdown Info'>
 

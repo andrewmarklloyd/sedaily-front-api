@@ -42,7 +42,7 @@ export default {
 <style scoped lang="stylus">
 @import './../css/variables'
 input#search
- background-image url("~@/assets/icons/search.svg")
+ background-image url(../assets/icons/search.svg)
  background-repeat: no-repeat
  background-position left
  background-position-x 5px
